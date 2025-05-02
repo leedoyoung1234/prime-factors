@@ -3,6 +3,9 @@
 
 TEST(PrimeFactors, PrimeTest) {
 	EXPECT_EQ(1, 1);// test
+	EXPECT_EQ(1, 1);// test
+	EXPECT_EQ(1, 1);// test
+	EXPECT_EQ(1, 1);// test
 }
 
 int main() {
